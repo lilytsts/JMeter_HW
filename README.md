@@ -76,6 +76,6 @@ age: int
 salary: int
 ```
 ## Reports
-* [Report 50 treads]()
-* [Report 250 treads]()
-* [Report 500 treads]()
+* [Report 50 treads](https://github.com/lilytsts/JMeter_HW/blob/main/Summary_report_50.csv)
+* [Report 250 treads](https://github.com/lilytsts/JMeter_HW/blob/main/Summary_report_250.csv)
+* [Report 500 treads](https://github.com/lilytsts/JMeter_HW/blob/main/Summary_report_500.csv)
