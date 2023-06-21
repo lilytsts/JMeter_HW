@@ -76,6 +76,6 @@ age: int
 salary: int
 ```
 ## Reports
-* [Report 50 samples]()
-* [Report 250 samples]()
-* [Report 500 samples]()
+* [Report 50 treads]()
+* [Report 250 treads]()
+* [Report 500 treads]()
